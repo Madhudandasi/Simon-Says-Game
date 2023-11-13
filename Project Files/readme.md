@@ -1,0 +1,1 @@
+	Simon Says Memorize Game, has four coloured buttons and each colour flashes randomly when clicked on. The player’s goal is to recreate the order in which the game presses the buttons and as the game progresses the number of buttons to be pressed increases.
